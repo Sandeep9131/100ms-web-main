@@ -16,7 +16,7 @@ ENV NODE_ENV production
 ENV REACT_APP_TILE_SHAPE=1-1
 ENV REACT_APP_THEME=dark
 ENV REACT_APP_COLOR=#2F80FF
-ENV REACT_APP_LOGO='provide your logo img url here'
+ENV REACT_APP_LOGO='https://trando.in/image/logo1.jpg'
 ENV REACT_APP_FONT=Inter
 ENV REACT_APP_ENABLE_HLS_QUALITY_LVL='true'
 ENV REACT_APP_TOKEN_GENERATION_ENDPOINT='<Your token generation endpoint from dashboard goes here>'
